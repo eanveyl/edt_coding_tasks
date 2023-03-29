@@ -152,3 +152,4 @@ plt.legend()
 plt.title("Bi-variate Normal distribution")
 plt.show()
 
+# push test R&S
