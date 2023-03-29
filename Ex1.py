@@ -153,3 +153,4 @@ plt.title("Bi-variate Normal distribution")
 plt.show()
 
 # push test R&S
+# push test 2
